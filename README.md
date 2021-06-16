@@ -1,1 +1,3 @@
-# js-building-objects-practice
+# JavaScript Building Objects
+
+Practice of building JavaScript objects.
