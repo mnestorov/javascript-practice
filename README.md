@@ -12,6 +12,12 @@ Object property stores a literal value and method represents function. An object
 
 ## Examples
 
+### Get the property of the car object
+```javascript
+car.model
+```
+
+
 ### Change the color of the car in a car object
 
 ```javascript
