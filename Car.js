@@ -32,7 +32,7 @@
 		this.name = nName
 		this.model = nModel
 		this.year = nYear
-		this.color = nColor
+		this.changeColor.color = nColor
 		this.fuel = nFuel
 		this.lkm = nLkm
 	}
