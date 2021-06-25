@@ -32,6 +32,12 @@ const backpack = {
 
 console.log('The backpack object:', backpack)
 
+console.log("Left before:", backpack.strapLength.left)
+
+backpack.newStrapLength(10, 15)
+
+console.log("Left After:", backpack.strapLength.left)
+
 
 /**
  * Create a Car object.
