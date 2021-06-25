@@ -46,19 +46,19 @@ const car = {
 	name: 'BMW',
 	model: "E46",
 	year: 2001,
-	color: "silver",
+	color: "Silver",
 	changeColor: function (newColor) {
 		this.color = newColor
 	},
-	fuel: "gas",
+	fuel: "Gas",
 	lkm: 100,
 	newCar: function (name, model, year, color, fuel, lkm) {
-		this.make = name
+		this.name = name
 		this.model = model
 		this.year = year
 		this.color = color
 		this.fuel = fuel
-		this.mpg = lkm
+		this.lkm = lkm
 	}
 }
 
